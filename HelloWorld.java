@@ -7,7 +7,7 @@ public class HelloWorld {
         int number = 5;
         
         // Perform some calculations
-        int result = number * 2;
+        int result = number * 4;
         
         // Print the result
         System.out.println("The result is: " + result);
